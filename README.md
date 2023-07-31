@@ -1,4 +1,4 @@
-# The representation of occluded image regions in area V1 of monkeys and humans
+## The representation of occluded image regions in area V1 of monkeys and humans
 
 This is the Matlab's code repository for Papale et al., bioRxiv, 2022.
 
